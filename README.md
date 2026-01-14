@@ -3,7 +3,6 @@
 This project is a **basic algorithmic trading strategy** developed for the **Rotman Interactive Trader (RIT)** simulator, specifically for the **Algorithmic Market Making (ALGO 2) case**.
 
 **Case Description**:  
-**Case Description**:  
 [Algorithmic Market Making Case Brief (ALGO 2)](https://rotmanfrtl.github.io/RIT%20-%20Case%20Brief%20-%20ALGO2%20-%20Algorithmic%20Market%20Making.pdf)
 
 **Rotman Interactive Trader Platform**:  
